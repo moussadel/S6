@@ -1,0 +1,13 @@
+total 464
+----r--r-- 1 adel adel      0 févr.  6 18:28 azerty
+-rwxrwxrwx 1 adel adel   1184 févr.  4 21:34 fich
+-rw-r--r-- 1 adel adel      0 févr. 11 20:04 ls.txt
+-rwxr-xr-x 1 adel adel    484 févr. 15  2018 Makefile
+-rw-rw-r-- 1 adel adel 372581 nov.  21 16:44 MOUSS_TAGUI_APNEE3_4.pdf
+-rwx------ 1 adel adel   5143 févr. 15  2018 sdriver.pl
+-rwxr-xr-x 1 adel adel  63184 févr. 11 19:13 shell
+drwx------ 2 adel adel   4096 févr.  6 15:21 src
+-rw-r----- 1 adel adel     48 févr.  5 19:29 test
+-rwxrwxrwx 1 adel adel   1184 févr.  4 21:04 test001
+drwxr-xr-x 2 adel adel   4096 févr. 11 19:56 tests
+-rw-r----- 1 adel adel   1184 févr. 11 20:00 toto

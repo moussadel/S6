@@ -1,0 +1,15 @@
+cat test | grep de | wc
+evince MOUSS_TAGUI_APNEE3_4.pdf
+ls -a ls pwd ps less
+ls -l | wc     wc | cat toto
+ssh -X moussa@turing.e.ujf-grenoble.fr
+cp fich toto
+mkdir
+rm rm-r
+man elf
+subl test &
+ls -l >ls.txt
+
+cat < fich > fich2
+ ls < fich | grep de fich | wc -l > fich2
+

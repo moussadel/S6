@@ -1,0 +1,18 @@
+Rapport de projet MÉTHODES ET OUTIL POUR LA CONCEPTION AVANCÉE
+Ce document a pour but de décrire le déroulement de notre projet de L’UE
+	MÉTHODES ET OUTILS POUR LA CONCEPTION AVANCÉE
+Ce Projet Informatique porte sur un Logiciel déjà existant  «Puissance_4» pour atteindre l’objectif fixé dans le cadre de la formation nous devions répondre à une succession définie par les points suivants:
+
+    • Introduction, lancement du projet (semaine 1).
+    • Modularité, maintenabilité, réutilisabilité (semaines 2 et 3).
+    • Qualité des tests, analyse de couverture (semaine 4).
+    • Tests pour l'analyse de vulnérabilité (semaine 5).
+    • Détection des défauts, correction de bugs (semaines 6 et 7).
+    • Résumé comparatif sur les méthodes pour le debug et pour l’analyse de vulnérabilité (semaine 8).
+    • Analyse de performances (semaines 9 et 10).
+
+Ce rapport contient l’ensemble des éléments du projet:
+    • les spécifications plus détaillées qui en découlent.
+    • Nous décrirons le fonctionnement de notre projet dans son ensemble
+    • ainsi que les éléments qui prouvent le bon fonctionnement de celui-ci.
+   
